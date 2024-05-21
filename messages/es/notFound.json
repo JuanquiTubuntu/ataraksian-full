@@ -1,0 +1,10 @@
+{
+    "techTitle": "¡Ups! Algo salió mal.",
+    "maintenanceTitle": "Estamos trabajando en ello...",
+    "notFoundTitle": "No lo encontramos...",
+    "p1Tech": "Parece que estamos experimentando problemas técnicos en este momento. Nuestro equipo ya está trabajando en ello y esperamos tenerlo solucionado en unos minutos.",
+    "p2Tech": "Si necesitas asistencia inmediata o quieres reportar detalles adicionales sobre este error, por favor, contacta con nosotros a través de info@ataraksian.com.",
+    "p3Tech": "Te invitamos a volver a intentarlo en unos minutos. Gracias por tu comprensión y por tu paciencia.",
+    "p1Maintenance": "¡Hola! Estamos realizando algunas mejoras en Ataraksian para brindarte una experiencia aún mejor. Por favor, vuelve más tarde para disfrutar de las novedades. ¡Gracias por tu comprensión y paciencia!",
+    "p1notFound": "Lo sentimos, la página que estás buscando no se encuentra en Ataraksian. Por favor, verifica la URL e inténtalo de nuevo. Si crees que se trata de un error, no dudes en contactarnos para que podamos ayudarte."
+}

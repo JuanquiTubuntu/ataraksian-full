@@ -1,0 +1,12 @@
+{
+    "title": "Crea tu cuenta",
+    "inputName": "Nombre",
+    "inputLastName": "Apellidos",
+    "inputEmail": "Email",
+    "inputPhone": "Número de teléfono",
+    "dni": "DNI / NIE / Pasaporte",
+    "acepto": "Acepto los",
+    "terminos": "términos y condiciones legales y la política de privacidad",
+    "ataraksian": "de Ataraksian.",
+    "buttonRegister": "Continuar"
+}

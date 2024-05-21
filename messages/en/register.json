@@ -1,0 +1,12 @@
+{
+    "title": "Create your account",
+    "inputName": "First name",
+    "inputLastName": "Surname",
+    "inputEmail": "Email (username)",
+    "inputPhone": "Mobile",
+    "dni": "ID / Pasaporte",
+    "acepto": "I have read and accept the",
+    "terminos": "Terms & Conditions and the Privacy Policy",
+    "ataraksian": "of Ataraksian.",
+    "buttonRegister": "Continue"
+}

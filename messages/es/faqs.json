@@ -1,0 +1,20 @@
+{
+    "faq1_title": "¿Qué necesito para operar con Ataraksian?",
+    "faq1_p1": "Para operar con Ataraksian solo necesitas:",
+    "faq1_item1": "Tener DNI, pasaporte o tarjeta de residencia en España",
+    "faq1_item2": "Tener una cuenta bancaria europea",
+    "faq1_item3": "Tener un wallet que acepte las criptomonedas que tenemos disponibles (pronto esto no será necesario)",
+    "faq2_title": "¿Con qué criptomonedas puedo operar?",
+    "faq2_p1": "Por ahora, las criptomonedas que están disponibles para comprar o vender son:",
+    "faq2_item1": "Bitcoin",
+    "faq2_item2": "Ethereum",
+    "faq2_item3": "USDC",
+    "faq2_item4": "USDT",
+    "faq2_p2": "¡Iremos añadiendo más divisas próximamente! ✨ ✨ ✨",
+    "faq3_title": "¿Cómo es el proceso de compra?",
+    "faq3_item1": "Muy fácil. ¡En menos de 20 minutos puedes registrarte y completar tu primera operación!",
+    "faq3_item2": "En primer lugar tendrás que registrarte en nuestra plataforma. No tardarás más de 5 minutos. Solo te pediremos algunos datos personales y una foto de tu DNI, pasaporte o tarjeta de residencia.",
+    "faq3_item3": "En unos minutos validaremos tu registro y ya desde ese momento podrás solicitar la compra o venta de criptomonedas.",
+    "faq3_item4": "Para completar la operación, tendrás que realizar una transferencia a nuestra cuenta bancaria (en el caso de compra) o un envío de criptomonedas a nuestro wallet (en el caso de venta).",
+    "faq3_item5": "Tan pronto como recibamos tus criptomonedas o tu transferencia, ejecutaremos la orden de envío de criptomonedas a tu wallet (en el caso de compra) o el envío de dinero a tu cuenta bancaria (en el caso de venta)."
+}
